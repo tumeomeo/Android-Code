@@ -9,16 +9,16 @@
 
 
 ##  Chức năng đã thực hiện
--Theo dõi bài tập.
--Tạo các bài tập tùy chỉnh.
--Tạo bình luận bài tập.
--Thêm/ Sửa, xóa bài tập.
--Phân tích cơ bản về dữ liệu tập luyện.
--Thống kê biểu đồ.
--Trực quan hóa dữ liệu tập luyện.
--Khối lượng, thực tế, ước tính và theo dõi số liệu thống kê khác.
--Hẹn giờ nghỉ ngơi.
--Reset/ sao lưu dữ liệu.
+- Theo dõi bài tập.
+- Tạo các bài tập tùy chỉnh.
+- Tạo bình luận bài tập.
+- Thêm/ Sửa, xóa bài tập.
+- Phân tích cơ bản về dữ liệu tập luyện.
+- Thống kê biểu đồ.
+- Trực quan hóa dữ liệu tập luyện.
+- Khối lượng, thực tế, ước tính và theo dõi số liệu thống kê khác.
+- Hẹn giờ nghỉ ngơi.
+- Reset/ sao lưu dữ liệu.
 
 
 ##  Nhóm sinh viên thực hiện
