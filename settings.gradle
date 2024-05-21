@@ -1,0 +1,3 @@
+rootProject.name = "Harder Than Last Time"
+include ':GymDiary'
+
